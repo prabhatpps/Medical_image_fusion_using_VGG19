@@ -63,4 +63,3 @@ The fused images will be saved in the output directory specified. Evaluation met
 ## Author
 
 Prabhat Pandey
-B-tech ECE student at VIT-Vellore
