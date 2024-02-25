@@ -26,7 +26,7 @@ Ensure you have the following dependencies installed:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your_username/medical-image-fusion.git](https://github.com/prabhatpps/Medical_image_fusion_using_VGG19.git)
+   git clone https://github.com/prabhatpps/Medical_image_fusion_using_VGG19.git
 
 2. Install dependencies::
 
