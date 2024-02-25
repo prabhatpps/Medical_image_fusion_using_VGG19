@@ -38,7 +38,7 @@ Ensure you have the following dependencies installed:
 1. Navigate to the project directory:
 
    ```bash
-   cd medical-image-fusion
+   cd Medical_image_fusion_using_VGG19
 
 2. Run the main script:
 
