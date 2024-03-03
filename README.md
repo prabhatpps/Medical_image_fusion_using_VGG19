@@ -32,7 +32,6 @@ Ensure you have the following dependencies installed:
 
    ```bash
    pip install -r requirements.txt
-   
 
 ## Usage
 1. Navigate to the project directory:
